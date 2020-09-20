@@ -21,6 +21,10 @@ button::after {
   content: none;
 }
 
+header li:hover:before {
+  transform: scaleX(0);
+}
+
 /* end */
 
 .header-container {
