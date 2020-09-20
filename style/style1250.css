@@ -1,0 +1,21 @@
+.article-container {
+  grid-template-columns: none;
+  grid-template-areas:
+    "1fr 1fr"
+    "1fr 1fr";
+}
+
+.why-reasons {
+  grid-template-columns: none;
+  grid-template-areas:
+    "1fr 1fr"
+    "1fr 1fr";
+}
+
+.bg {
+  opacity: 0.1;
+}
+
+.intro-left p {
+  color: hsl(233, 26%, 24%);
+}

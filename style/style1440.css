@@ -1,0 +1,19 @@
+/*.bg::after {
+  right: 0;
+  left: 867px;
+}
+
+.intro-bg {
+  right: 0;
+  left: 675px;
+}
+*/
+.bg::after {
+  right: 0;
+  left: 51%;
+}
+
+.intro-bg {
+  right: 0;
+  left: 40.5%;
+}
