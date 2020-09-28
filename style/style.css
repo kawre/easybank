@@ -228,6 +228,7 @@ article {
   border-radius: 6px;
   overflow: hidden;
   background: white;
+  cursor: pointer;
 }
 
 .articles h2 {
